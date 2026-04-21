@@ -6,7 +6,6 @@ A secure, performance-oriented full-stack web application featuring JWT-based au
 
 - **Frontend**: React.js (Vite), Axios, Lucide Icons, Vanilla CSS (Glassmorphism design)
 - **Backend**: Node.js, Express, MongoDB (Mongoose), JWT, Joi Validation
-- **Documentation**: Swagger UI
 
 ## 🖼️ Visual Preview
 
