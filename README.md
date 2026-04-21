@@ -8,6 +8,18 @@ A secure, performance-oriented full-stack web application featuring JWT-based au
 - **Backend**: Node.js, Express, MongoDB (Mongoose), JWT, Joi Validation
 - **Documentation**: Swagger UI
 
+## 🖼️ Visual Preview
+
+### Dashboard Overview
+![Dashboard Landing](./asset/2.png)
+
+### Authentication Flow
+![Login Page](./asset/1.png)
+![Registration Page](./asset/3.png)
+
+### Interactive Demo
+![Full Flow Demo](./asset/demo.webp)
+
 ## 🛠️ Getting Started
 
 ### Prerequisites
